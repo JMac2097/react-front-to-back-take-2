@@ -20,8 +20,6 @@ const Users = () => {
             </div>
         )
     }
-
-
 }
 
 const userStyle = {
